@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MusicalAPP</string>
+    <string name="artist_adele">Adele</string>
+    <string name="artist_araiana">Araiana</string>
+    <string name="artist_ketty">Ketty Berry</string>
+    <string name="artist_beynoce">Beyonce</string>
+    <string name="artist_usher">Usher</string>
+    <string name="artist_cris">Cris Brown</string>
+
+    <string name="songs">Songs</string>
+    <string name="playlist">PlayList</string>
+    <string name="album">Album</string>
+    <string name="play">Play</string>
+    <string name="artists">Artists</string>
+    <string name="reset_time">00:00</string>
+    <string name="SONG_DURATION">04:45</string>
+    <string name="song_name">hello</string>
+
+</resources>
